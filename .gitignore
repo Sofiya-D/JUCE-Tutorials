@@ -1,3 +1,12 @@
+# potentially heavy  compressed folders
+*.zip
+
+# JUCE heavy files
+Oscillator_0/Oscillator
+Oscillator_0/Synth_1/Builds
+*.a
+*.o
+
 # Prerequisites
 *.d
 

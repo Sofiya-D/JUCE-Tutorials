@@ -2,3 +2,7 @@
 	path = SimpleSynthNoiseTutorial
 	url = https://github.com/Sofiya-D/SimpleSynthNoiseTutorial.git
 	branch = SimpleSynthNoiseTutorial
+[submodule "MainComponentTutorial"]
+	path = MainComponentTutorial
+	url = https://github.com/Sofiya-D/MainComponentTutorial.git
+	branch = MainComponentTutorial

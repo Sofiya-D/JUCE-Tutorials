@@ -6,3 +6,6 @@
 	path = MainComponentTutorial
 	url = https://github.com/Sofiya-D/MainComponentTutorial.git
 	branch = MainComponentTutorial
+[submodule "BasicAudioPluginTutorial"]
+	path = BasicAudioPluginTutorial
+	url = https://github.com/Sofiya-D/BasicAudioPluginTutorial.git

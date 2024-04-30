@@ -9,3 +9,6 @@
 [submodule "BasicAudioPluginTutorial"]
 	path = BasicAudioPluginTutorial
 	url = https://github.com/Sofiya-D/BasicAudioPluginTutorial.git
+[submodule "WhiteNoiseGeneratorPlugin"]
+	path = WhiteNoiseGeneratorPlugin
+	url = https://github.com/Sofiya-D/WhiteNoiseGeneratorPlugin.git

@@ -1,2 +1,2 @@
 # juce-tutorial
-repo to understand how juce works
+My repo to understand how juce works

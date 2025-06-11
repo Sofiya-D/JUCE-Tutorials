@@ -12,6 +12,3 @@
 [submodule "WhiteNoiseGeneratorPlugin"]
 	path = WhiteNoiseGeneratorPlugin
 	url = https://github.com/Sofiya-D/WhiteNoiseGeneratorPlugin.git
-[submodule "LowpassHighpassFilterPlugin"]
-	path = LowpassHighpassFilterPlugin
-	url = https://github.com/Sofiya-D/LowpassHighpassFilterPlugin.git
